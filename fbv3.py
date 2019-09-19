@@ -1,8 +1,9 @@
 #!/usr/bin/python
 # coding=utf-8
-# (ZeDD) RedDemons
+# MR.BELL
+# THE NEXT LEVEL
 # Source : Python2 Gerak"
-# DARK-FB version1.7
+# DARK-FB version 1.7,5
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
@@ -61,14 +62,14 @@ logo ="""
 \033[1;96m█████████
 \033[1;96m█▄█████▄█      
 \033[1;96m█ ▼▼▼▼▼  _-_-- ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-\033[1;96m█.    _-_-- -_ --  ӉԱทҬЄГՏ ԌᗋᗰiทԌ04
-\033[1;96m█ ▲▲▲▲▲   -_ -«============✧==========»
-\033[1;96m█████████   SUBSCRIBE NOW TO MY CHANNELL ...!!
-\033[1;96m ██ ██       VIP-V3 by Hunters Gaming04                    
+\033[1;96m█.    _-_-- -_ --        MR.BELL-THE NEXT LEVEL
+\033[1;96m█ ▲▲▲▲▲   -_ -      «============✧==========»
+\033[1;96m█████████      FOLLOW MY INSTAGRAM @bell_attcker...!!
+\033[1;96m ██ ██                    hack-fb by Mr.Bell                   
 \033[1;93m╔═══════════════════════════════════════════╗
-\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mMr_Hunters  \033[1;93m                   ║
-\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4m083847277532\033[0m \033[1;93m                  ║
-\033[1;93m║\033[1;96m¤ \033[1;93mEmail  \033[1;93m : \033[1;93m\033[4mgelasajur1204@gmail.com\033[0m \033[1;93m       ║
+\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mMr.Bell  \033[1;93m                   ║
+\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4m0895611923415\033[0m \033[1;93m                  ║
+\033[1;93m║\033[1;96m¤ \033[1;93mEmail  \033[1;93m : \033[1;93m\033[4marjunaiguana46@gmail.com\033[0m \033[1;93m       ║
 \033[1;93m╚═══════════════════════════════════════════╝
 """
 
@@ -76,7 +77,7 @@ logo ="""
 def tik():
 	titik = ['.   ','..  ','...... ']
 	for o in titik:
-		print("\r\033[1;91m[●] \033[1;92mTunggu sebentar \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;91m[●] \033[1;92mWait...menunggu itu membosankan\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 back = 0
 threads = []
@@ -113,13 +114,13 @@ def an():
         os.system('reset')
         print logo
         time.sleep(1)
-        print 'Silahkankan Subscribe ke channell Hunters Gaming04 !!'
+        print 'Silahkan FOLLOW Instagram saya!!'
         time.sleep(3)
-        print 'Semoga yang subscribe rejekinya banyak Amin...!!'
+        print 'Semoga yang FOLLOW dapat banyak rejeki..!!'
         time.sleep(3)
-        print 'Biasanya yg gak subscribe tidak bisa login'
+        print 'Biasanya yg tidak FOLLOW tidak bisa login'
         time.sleep(3)
-        os.system('xdg-open https://www.youtube.com/channel/UCz5Z718-ZRUy9aBzCAHqrug ')
+        os.system('xdg-open https://www.instagram.com/bellattcker ')
         print 'User = Mr  dan   Pasw = HG04 '
         time.sleep(5)
         print 'Masukan User dan Pass nya ?'
